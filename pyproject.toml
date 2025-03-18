@@ -39,7 +39,7 @@ dependencies = [
 path = "hashtray/__about__.py"
 
 [project.scripts]
-hashtray  = "hashtray.cli:main"
+hashtray-json  = "hashtray.hashtray_json_output:main"
 
 [project.urls]
 "Homepage" = "https://github.com/balestek/hashtray"
